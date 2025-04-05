@@ -57,6 +57,8 @@ npm start
 10. run "npm start"
 11. Have a look at the website!
 
+---
+
 🛍️ Folder Structure
 
 Apparel_Arcade/
